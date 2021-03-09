@@ -1,1 +1,3 @@
 we have completed our first commit ...it's amazing
+we have learn a lot about git..
+Now we can start using git and git hub...
