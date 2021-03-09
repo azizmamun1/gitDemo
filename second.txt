@@ -1,2 +1,3 @@
 This is a second txt editor, git learning is so awesome.
-Now we can check different commits and it's change.
+
+Now we are going to learn about diff command...
