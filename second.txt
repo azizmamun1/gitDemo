@@ -1,0 +1,1 @@
+This is a second txt editor, git learning is so awesome.
